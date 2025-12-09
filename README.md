@@ -61,7 +61,7 @@ pip install -r client_requirements.txt
 1️⃣ Clone the Repository
 ```
 git clone https://github.com/01exit/encrypted-chat-app.git
-cd secure-websocket-messenger
+cd encrypted-chat-app
 ```
 2️⃣ Environment Configuration
 Create a .env file in the project root:
