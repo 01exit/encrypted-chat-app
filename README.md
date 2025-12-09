@@ -66,7 +66,9 @@ cd encrypted-chat-app
 2️⃣ Environment Configuration
 Create a .env file in the project root:
 `URL="wss://your-service.onrender.com"`
+
 3️⃣ Run the Server
+
 4️⃣ Run the Clients:
 `client_gui.py`
 
